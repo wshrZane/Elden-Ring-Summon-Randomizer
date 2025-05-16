@@ -1,6 +1,6 @@
 ## Randomizer for Elden Ring spirit ash summons.
 
-![Capture](https://user-images.githubusercontent.com/55667610/161849780-02396cfa-7d6b-4c7a-8d81-33a83db09905.PNG)
+![Capture](https://github.com/wshrZane/Elden-Ring-Summon-Randomizer/blob/master/buddyrandomize.png)
 
 ## WARNINGS (PLEASE READ THIS PART)
 - The current version of Mod Engine 2 does not manage save files, so if you have existing saves: go to "AppData\Roaming\EldenRing" and backup the save files within. Restore these backups before playing online, or you could potentially be banned.
